@@ -1,5 +1,3 @@
-# System Design Foundry 
-
 Application developers build software for users.  
 Systems software engineers build the foundations other software relies on.  
 **System Design Foundry builds foundations and tools for those systems builders.**
