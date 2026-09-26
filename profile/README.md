@@ -1,12 +1,9 @@
-## Hi there 👋
+# System Design Foundry 
 
-<!--
+Application developers build software for users.  
+Systems software engineers build the foundations other software relies on.  
+**System Design Foundry builds foundations and tools for those systems builders.**
 
-**Here are some ideas to get you started:**
+SDF explores how **explicit semantics** can make foundational software easier to build, transform, analyze, and reason about—by both people and machines.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Its initial focus is programming languages, compilers, binary structures, and protocols: domains where preserving meaning matters and where semantic information can be carried forward into increasingly capable tools.
