@@ -5,3 +5,5 @@ Systems software engineers build the foundations other software relies on.
 SDF explores how **explicit semantics** can make foundational software easier to build, transform, analyze, and reason about—by both people and machines.
 
 Its initial focus is programming languages, compilers, binary structures, and protocols: domains where preserving meaning matters and where semantic information can be carried forward into increasingly capable tools.
+
+[Read more about System Design Foundry](https://github.com/system-design-foundry/.github/blob/main/profile/ABOUT.md).
